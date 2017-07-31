@@ -1,0 +1,9 @@
+name: emcee
+description: A Master of Ceremony for your events.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
